@@ -1,0 +1,57 @@
+html {
+  padding: 10px;
+  background-color: rgb(0, 0, 0);
+}
+
+body {
+  padding: 10px;
+  margin: 0;
+  background-color: rgb(16, 57, 134);
+}
+
+.parent {
+  background-color: rgb(31, 100, 227);
+  margin: 10px;
+  padding: 30px;
+  display: flex;
+  flex-flow: row nowrap;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.div1 {
+  background-color: rgb(213, 228, 255);
+  margin: 5px;
+}
+
+.div2 {
+  background-color: rgb(213, 228, 255);
+  margin: 5px;
+  width: 150px;
+  font-size: 30px;
+}
+
+.div3 {
+  background-color: rgb(213, 228, 255);
+  margin: 5px;
+  height: 150px;
+}
+
+.div4 {
+  background-color: rgb(213, 228, 255);
+  margin: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.div5 {
+  background-color: rgb(213, 228, 255);
+  margin: 5px;
+  width: 200px;
+}
+
+.div6 {
+  background-color: rgb(213, 228, 255);
+  margin: 5px;
+  width: 200px;
+}
