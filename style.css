@@ -10,13 +10,14 @@ body {
 }
 
 .parent {
+  height: 80vh;
   background-color: rgb(31, 100, 227);
   margin: 10px;
   padding: 30px;
   display: flex;
-  flex-flow: row nowrap;
-  /* justify-content: center;
-  align-items: center; */
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
 }
 
 .div1 {
